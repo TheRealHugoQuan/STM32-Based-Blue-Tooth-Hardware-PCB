@@ -16,9 +16,6 @@ Designed specifically for [e.g., low-power IoT applications / wearable prototypi
 * **Dimensions:** [e.g., 40mm x 25mm]
 * **Layers:** [e.g., 4-Layer FR4 with dedicated continuous ground plane for RF shielding]
 
-## 📐 Schematic & Board Layout
-*(Tip: Replace these placeholder paths with screenshots of your actual KiCad design!)*
-
 ## 📁 Repository Structure
 * `/hardware/` - Core KiCad project files (`.kicad_pro`, `.kicad_sch`, `.kicad_pcb`).
 * `/fabrication/` - Exported Gerber files, drill files, and BOM/CPL files ready for PCB assembly (PCBA).
